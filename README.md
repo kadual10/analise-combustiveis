@@ -23,5 +23,8 @@ Salve o arquivo como `data/1_semestre_2026.csv` antes de rodar o notebook.
 
 ## Resultados
 
+### Preço médio por combustível
+![Preço médio por combustível](imagens/preco_por_combustivel.png)
+
 ### Preço da gasolina ao longo do semestre
 ![Preço da gasolina ao longo do semestre](imagens/gasolina_semestre.png)

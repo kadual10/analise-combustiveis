@@ -21,5 +21,7 @@ Salve o arquivo como `data/1_semestre_2026.csv` antes de rodar o notebook.
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Abra `notebooks/analise.ipynb`
 
-## Status
-Em desenvolvimento.
+## Resultados
+
+### Preço da gasolina ao longo do semestre
+![Preço da gasolina ao longo do semestre](imagens/gasolina_semestre.png)

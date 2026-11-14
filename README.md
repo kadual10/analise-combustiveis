@@ -12,7 +12,9 @@ Responder perguntas sobre a evolução e a variação dos preços de combustíve
 - Jupyter Notebook
 
 ## Fonte dos dados
-(em breve)
+Dados da ANP (série histórica de preços de combustíveis), 1º semestre de 2026.
+**Baixe em: (https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/shpc/dsas/ca/ca-2026-01.zip)**
+Salve o arquivo como `data/1_semestre_2026.csv` antes de rodar o notebook.
 
 ## Como rodar
 1. Clone o repositório
